@@ -9,6 +9,6 @@
 
 ### Resources used:
 ### [W3 School](https://www.w3schools.com)
-### [Openweather]https://openweathermap.org/)
+### [Openweather](https://openweathermap.org/)
 ### [Stack Overflow](https://stackoverflow.com/)
 ### [MDN Webdocs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
